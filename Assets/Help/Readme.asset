@@ -51,7 +51,7 @@ MonoBehaviour:
     url: https://www.youtube.com/watch?v=vap04-Py9QM
   - heading: Lightning round of 2D tips
     text: Why wait to get started? Find out how to work quickly and efficiently throughout
-      your entire 2D project with this compilation of handy tips.
+      your entire 2D project with this compilation of handy tips. this is some test to check auto build and email notification
     linkText: Read the blog
     url: https://blogs.unity3d.com/2021/02/09/a-lightning-round-of-great-tips-for-2d-games/
   - heading: Got feedback?
